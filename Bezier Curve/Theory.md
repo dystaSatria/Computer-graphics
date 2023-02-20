@@ -4,6 +4,8 @@ Bezier curve is discovered by the French engineer **Pierre Bézier**. These curv
 
 <img src="https://live.staticflickr.com/65535/52700333292_52164462b2_w.jpg" width="629" height="100" alt="Screenshot (509)">
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/197661703@N05/52700333292/in/dateposted-public/" title="Screenshot (515)"><img src="
-
+The Bezier Curve formula below can be used to define smooth curves between points in space using line handlers (line P0 to P1 and line P2 to P3).
+```
+P(t) = (1-t)^3P0 + 3(1-t)^2tP1 + 3(1-t)t^2P2 + t^3P3
+```
 
