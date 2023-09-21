@@ -4,6 +4,8 @@
 
 * Install Dev-C++
 
+* Download the dev file and make new source code 
+
 ## Tesseract Cube view in Dev-C++
 
 
